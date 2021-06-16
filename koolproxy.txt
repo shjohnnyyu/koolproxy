@@ -3,15 +3,19 @@
 !x  -----update[rules]: 2021-5-23 9:25
 !x  -----update[video]: 2021-5-23 10:00
 !x  -----update by larry
-
+#电视家
+||qn.cdn.dianshihome.com
+||api.dianshihome.com
+||api.dianshige.com
+||pushapi.tvfuwu.com
+||pushapi.cdnimg.org
+||cdn.dianshihome.com
 ||www.inpandora.com/wp-content/uploads/2019/03/lizhi-thumb.jpg
-
 #西瓜
 ||v3.xsj.wasu.tv
 ||v5.xsj.wasu.tv
 ||v6.xsj.wasu.tv
 ||v1.xsj.wasu.tv
-
 #屏蔽电视机收集隐私
 ||gz-data.com
 ||gzads.com
@@ -28,9 +32,7 @@
 ||ad7.com
 ||gd.xinhuanet.com
 ||lqcdn.dangbei.net
-
 #韩剧tv
-
 ||static.hanju.koudaibaobao.com
 ||adsmind.updtimg.com
 ||pgdt.updtimg.com
@@ -49,16 +51,12 @@
 ||canvas.gdt.qq.com
 ||raddus.bayescom.com
 ||imgcache.qq.com
-
-
-
 #youku
 ||vali-g1.cp31.ott.cibntv.net
 |https://ngaa.net.cn
 #冬瓜影视
 |https://myqcloud.com
 ||dpff.in
-
 #xiaomi
 ad.mi.com
 ad.xiaomi.com
@@ -71,13 +69,11 @@ gallery.pandora.xiaomi.com
 mishop.pandora.xiaomi.com
 upgrade.mishop.pandora.xiaomi.com
 mitv.tracking.miui.com
-
 #nfmovies
 |https://www.nfmovies.com/playg_pause.html
 |https://www.nfmovies.com/playg.html
 |https://www.nfmovies.com/static/*.png
 |https://ayx200.com
-
 |https://adsmind.ugdtimg.com
 |https://ugdtimg.com
 ||https://vhotwsh.video.qq.com
