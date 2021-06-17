@@ -3,10 +3,11 @@
 
 规则地址如下：
 
-
-koolproxy:
+**koolproxy**
 https://raw.githubusercontent.com/ihuaer/koolproxy/main/koolproxy.txt
-kp.dat
+
+**kp.dat**
 https://raw.githubusercontent.com/ihuaer/koolproxy/main/kp.dat
-daily:
+
+**daily**
 https://raw.githubusercontent.com/ihuaer/koolproxy/main/daily.txt
