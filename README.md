@@ -13,3 +13,6 @@ https://raw.githubusercontent.com/ihuaer/koolproxy/main/kp.dat
 
 **daily**
 https://raw.githubusercontent.com/ihuaer/koolproxy/main/daily.txt
+
+
+备注：openwrt的KPR不要直接升级KP，会出现异常。建议不保留配置升级到KP。
