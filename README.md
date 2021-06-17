@@ -2,9 +2,9 @@
 主要用于过滤CIBN酷喵、芒果TV、银河奇异果、云视听极光等盒子广告。
 
 规则地址如下：
-  koolproxy:
+  **koolproxy:**
   https://raw.githubusercontent.com/ihuaer/koolproxy/main/koolproxy.txt
-  kp.dat
+  **kp.dat**
   https://raw.githubusercontent.com/ihuaer/koolproxy/main/kp.dat
-  daily:
+  **daily:**
   https://raw.githubusercontent.com/ihuaer/koolproxy/main/daily.txt
