@@ -17,4 +17,4 @@ https://raw.githubusercontent.com/ihuaer/koolproxy/main/daily.txt
 #### openwrt固件下载
 
 微力同步：`B3AK5RFG2TJSKJ7G4WTQM3SETFKB7O6TXUJJJITC7R37L7UQKQJ3RNW`
-备注：openwrt的KPR不要直接升级KP，会出现异常。建议不保留配置升级到KP。
+
