@@ -1219,7 +1219,6 @@ baidu.com##.icon-bdad
 5ewin.com##.jjb-slide
 mail.126.com,mail.163.com##.gWel-bottom
 csdn.net##.blog-column-pay
-qidian.com,~game.qidian.com##A[href*="game.qidian.com"]
 zuhaowan.com##.zhw-bottom-ad
 tmtpost.com##.open-app
 kuman.com##.guide-download-footer-box
@@ -1921,9 +1920,6 @@ ifeng.com##a[href*=".app"]
 sina.com.cn##a[href="https://finance.sina.com.cn/mobile/comfinanceweb.shtml"]
 crsky.com##a[href^="http://count."][href$=".exe"]
 ~laifeng.youku.com,youku.com##a[href^="http://cps.laifeng.com/"]
-~laifeng.youku.com,youku.com##a[href^="http://cps.laifeng.com/"] + .bg + img
-163.com,~love.163.com##a[href^="http://love.163.com/"]
-ltn.com.tw##A[href*="draw.ltn.com.tw"]
 baidu.com#?#.rec-item:-abp-has(> .vbox > div > .appad-relate-rectpl)
 baijiahao.baidu.com,feed.baidu.com##body > div[id$="-container"]:last-child
 cnbeta.com#?#div[style^="display:block !important;"]
