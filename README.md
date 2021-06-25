@@ -1,4 +1,4 @@
-![](https://z3.ax1x.com/2021/06/17/2xFeRU.png)
+![](https://specials-images.forbesimg.com/imageserve/5f700f6e1e870e00c2683ac2/960x0.gif?fit=scale)
 
 自用规则，基于houzi大佬规则补充更新。
 主要用于过滤CIBN酷喵、芒果TV、银河奇异果、云视听极光等盒子广告。
